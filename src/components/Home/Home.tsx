@@ -20,7 +20,7 @@ export default function Home() {
             <p className="Sofia-Bold text-2xl">Alena Sabyan</p>
           </div>
           <div>
-            <Link to={"/acount"}>
+            <Link to={'/acount'}>
             <button >
               <ShoppingCartIcon className="w-6 h-6 transition-all hover:mb-4 hover:text-[#88C3C6] md:w-8 md:h-8" />
             </button>

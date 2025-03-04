@@ -77,3 +77,12 @@
   border-bottom-right-radius: 50px;
   box-shadow:0 10px 10px rgba(0, 0, 0, 0.5);
 }
+.dev-border{
+  border-width: 0px, 0px, 0px, 0px;
+
+border-style: solid;
+
+border-color: #88C3C6;
+
+
+}
